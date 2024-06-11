@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+p {
+    margin-block: 0.75rem;
+}
+
+.face {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    height: 100svh;
+}
+
