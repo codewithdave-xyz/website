@@ -27,7 +27,7 @@ export default defineNuxtConfig({
   },
   site: {
     url: 'https://example.com',
-    name: '@codewithDave',
+    name: 'Dave Hill, Front-end Developer',
     description: " For over two decades, I've developed user-friendly and captivating web interfaces. I collaborate effectively with designers and stakeholders. I'm confident in my ability to make a significant contribution, and I'm always eager for new challenges to deliver a seamless user experience.",
     defaultLocale: 'en', // not needed if you have @nuxtjs/i18n installed
   },
