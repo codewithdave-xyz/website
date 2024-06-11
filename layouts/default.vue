@@ -17,9 +17,9 @@ useHead({
     <nav>
       <ul class="flex  items-center l gap-4 md:mx-4">
        
-        <li><a href="/portfolio" class="py-1 px-2 border rounded hover:bg-blue-700 hover:text-white">Portfolio</a></li>
+        <!-- <li><a href="/portfolio" class="py-1 px-2 border rounded hover:bg-blue-700 hover:text-white">Portfolio</a></li>
         <li><a href="/articles" class="py-1 px-2 border rounded hover:bg-blue-700 hover:text-white">Archive</a></li>
-        <li><a href="/uses" class="py-1 px-2 border rounded hover:bg-blue-700 hover:text-white">/Uses</a></li>
+        <li><a href="/uses" class="py-1 px-2 border rounded hover:bg-blue-700 hover:text-white">/Uses</a></li> -->
       </ul>
     </nav>
   </header>
