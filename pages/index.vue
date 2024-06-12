@@ -13,10 +13,10 @@ const query: QueryBuilderParams = { path: '/articles', limit: 5, sort: [{ date: 
                         <div class="card__title">{{ article.title }}</div>
                         <NuxtImg :src="article.coverImage" alt="" />
                         <div class="card__content">{{ article.description }}</div>
-                        <!-- <div class="flex gap-1 items-center my-2">
-                            <Icon name="uil:comment-alt" />
+                        <div class="flex gap-1 items-center mt-4">
+                            <Icon name="uil:comment-alt" class="text-blue-700 text-2xl" />
                             <DisqusCount :identifier="article._path" />
-                        </div> -->
+                        </div>
                     </NuxtLink>
                 </div>
 
